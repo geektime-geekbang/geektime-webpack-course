@@ -1,0 +1,261 @@
+ WARNING  Compiled with 1 warnings11:33:49 AM
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  SourceHanSerifSC-Heavy_55e5e80cotf (21.9 MiB)
+
+{
+  "errors": [],
+  "warnings": [
+    "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  SourceHanSerifSC-Heavy_55e5e80cotf (21.9 MiB)"
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "external \"React\"",
+      "name": "external \"React\"",
+      "index": 4,
+      "index2": 3,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 1,
+      "identifier": "external \"ReactDOM\"",
+      "name": "external \"ReactDOM\"",
+      "index": 5,
+      "index2": 4,
+      "size": 42,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 2,
+      "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/node_modules/large-number/index.js",
+      "name": "./node_modules/large-number/index.js",
+      "index": 6,
+      "index2": 6,
+      "size": 167,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 3,
+      "identifier": "/Users/cpselvis/my-project/node_modules/file-loader/dist/cjs.js??ref--7-0!/Users/cpselvis/my-project/src/search/images/logo.png",
+      "name": "./src/search/images/logo.png",
+      "index": 8,
+      "index2": 7,
+      "size": 63,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 4,
+      "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "name": "./src/search/index.js",
+      "index": 3,
+      "index2": 10,
+      "size": 3487,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 5,
+      "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/node_modules/large-number/dist/large-number.min.js",
+      "name": "./node_modules/large-number/dist/large-number.min.js",
+      "index": 7,
+      "index2": 5,
+      "size": 2162,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/node_modules/large-number/index.js",
+      "issuerId": 2,
+      "issuerName": "./node_modules/large-number/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        },
+        {
+          "id": 2,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/node_modules/large-number/index.js",
+          "name": "./node_modules/large-number/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 6,
+      "identifier": "/Users/cpselvis/my-project/node_modules/mini-css-extract-plugin/dist/loader.js!/Users/cpselvis/my-project/node_modules/css-loader/dist/cjs.js!/Users/cpselvis/my-project/node_modules/less-loader/dist/cjs.js!/Users/cpselvis/my-project/node_modules/postcss-loader/src/index.js??ref--6-3!/Users/cpselvis/my-project/node_modules/px2rem-loader/index.js??ref--6-4!/Users/cpselvis/my-project/src/search/search.less",
+      "name": "./src/search/search.less",
+      "index": 9,
+      "index2": 9,
+      "size": 39,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 7,
+      "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/index/index.js 1f31276d1f03cab1371eeae4306722be",
+      "name": "./src/index/index.js + 2 modules",
+      "index": 0,
+      "index2": 2,
+      "size": 412,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 8,
+      "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/text.js",
+      "name": "./src/search/text.js",
+      "index": 11,
+      "index2": 11,
+      "size": 126,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+      "issuerId": 4,
+      "issuerName": "./src/search/index.js",
+      "issuerPath": [
+        {
+          "id": 4,
+          "identifier": "/Users/cpselvis/my-project/node_modules/babel-loader/lib/index.js!/Users/cpselvis/my-project/src/search/index.js",
+          "name": "./src/search/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    }
+  ],
+  "filteredModules": 1
+}

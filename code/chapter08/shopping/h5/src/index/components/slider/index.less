@@ -1,0 +1,30 @@
+.slider-item {
+    width: 750px;
+    height: 750px;
+    img {
+        width: 750px;
+        height: 750px;
+    }
+}
+.slick-dots {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    li {
+        border-radius: 100%;
+        width: 12px;
+        height: 12px;
+        background-color: #ff5e15!important;
+        opacity: 0.3;
+        button:before {
+            color: transparent;
+        }
+    }
+    li.slick-active {
+        opacity: 1;
+        button:before {
+            color: transparent;
+        }
+    }
+}

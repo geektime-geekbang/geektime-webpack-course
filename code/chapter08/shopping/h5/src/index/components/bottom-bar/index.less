@@ -1,0 +1,34 @@
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: rgb(254, 255, 255);
+    height: 100px;
+    .bottom-bar-nav {
+        display: flex;
+        background-color: rgb(254, 255, 255);
+        height: 100px;
+        .nav-item {
+            width: 25%;
+            list-style-type: none;
+        }
+        .nav-item-home {
+            background: url('./images/home.png') no-repeat center center;
+            background-size: contain;
+        }
+        .nav-item-cat {
+            background: url('./images/cat.png') no-repeat center center;
+            background-size: contain;
+        }
+        .nav-item-car {
+            background: url('./images/car.png') no-repeat center center;
+            background-size: contain;
+        }
+        .nav-item-personal {
+            background: url('./images/personal.png') no-repeat center center;
+            background-size: contain;
+        }
+    }
+}
